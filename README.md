@@ -71,13 +71,7 @@
 <div align="center">
   <details>
     <summary><strong>FLIP BITCOIN</strong></summary>
-
     <br />
-
-    <img
-      src="./assets/bitcoin-flip.gif"
-      width="360"
-      alt="Animated Bitcoin coin flip"
-    />
+    <img src="./assets/bitcoin-flip.gif" width="360" alt="Animated Bitcoin coin flip" />
   </details>
 </div>
