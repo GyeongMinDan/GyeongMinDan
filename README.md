@@ -11,10 +11,7 @@
 ## 🛠️ Tech Stacks
 
 <div align="center">
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-    alt="Python"
-  />
+  <img src="./assets/any_stack.svg" width="100%" alt="AI-augmented polyglot development with Codex and Claude Code" />
 </div>
 
 <br />
