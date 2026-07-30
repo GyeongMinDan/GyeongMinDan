@@ -33,7 +33,7 @@
 <br />
 
 <div align="center">
-  <a href="https://etherscan.io/address/0xEAC96ABCd266Defd03a3d5A3Bf5bAB15C7Cf71cd">
+  <a href="https://etherscan.io/address/0x001121D8935b92344b6c23225a4F0e0885CC7766">
     <img
       src="https://img.shields.io/badge/Ethereum-Wallet-627EEA?style=flat-square&logo=ethereum&logoColor=white"
       alt="Ethereum Wallet"
@@ -42,15 +42,15 @@
 
   <br />
 
-  <a href="https://etherscan.io/address/0xEAC96ABCd266Defd03a3d5A3Bf5bAB15C7Cf71cd">
-    <code>0xEAC96ABCd266Defd03a3d5A3Bf5bAB15C7Cf71cd</code>
+  <a href="https://etherscan.io/address/0x001121D8935b92344b6c23225a4F0e0885CC7766">
+    <code>0x001121D8935b92344b6c23225a4F0e0885CC7766</code>
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://solscan.io/account/D1G6f8wJGPYi2thRUS4uXpeogSMe1E9yGHUALbwyPibq">
+  <a href="https://solscan.io/account/DANDANcz1EgCary4WYLh15boxDXBcbgkHwyT8hyLiJAd">
     <img
       src="https://img.shields.io/badge/Solana-Wallet-14F195?style=flat-square&logo=solana&logoColor=white"
       alt="Solana Wallet"
@@ -59,8 +59,8 @@
 
   <br />
 
-  <a href="https://solscan.io/account/D1G6f8wJGPYi2thRUS4uXpeogSMe1E9yGHUALbwyPibq">
-    <code>D1G6f8wJGPYi2thRUS4uXpeogSMe1E9yGHUALbwyPibq</code>
+  <a href="https://solscan.io/account/DANDANcz1EgCary4WYLh15boxDXBcbgkHwyT8hyLiJAd">
+    <code>DANDANcz1EgCary4WYLh15boxDXBcbgkHwyT8hyLiJAd</code>
   </a>
 </div>
 
