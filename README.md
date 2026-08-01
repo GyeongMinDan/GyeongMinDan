@@ -63,7 +63,7 @@
 
 <br />
 
-## 🪙 Coin Flip
+<!--## 🪙 Coin Flip
 
 <div align="center">
   <details>
@@ -72,3 +72,4 @@
     <img src="./assets/bitcoin-flip.gif" width="360" alt="Animated Bitcoin coin flip" />
   </details>
 </div>
+-->
